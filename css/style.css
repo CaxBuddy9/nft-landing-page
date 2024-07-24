@@ -1,18 +1,31 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');");
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: 'Poppins', sans-serif;
-  --font-secondary: 'Arvo', serif;
-  --font-code: 'Roboto', monospace;
-  --bg-color: #00163f;
-  --font-color: #ffffff;
-  --btn-bg-color: #ffffff;
-  --accent-color: #be7efe;
-  --header-shadow: #000 0px 0px 5px;
+  --font-primary: 'Acme', ;
+  --font-secondary: 'Acme', ;
+  --font-code: 'Acme', ;
+  --bg-color: #f68e56;
+  --font-color: #ba2828;
+  --btn-bg-color: #ff9d0b;
+  --accent-color: #3442e1;
+  --header-shadow: #c42c2c 0px 0px 5px;
+}
+
+/* GLOBAL STYLES */
+
+:root {
+  --font-primary: 'Acme', sans-serif;
+  --font-secondary: 'Acme', sans-serif;
+  --font-code: 'Acme', sans-serif;
+  --bg-color: #000000;
+  --font-color: #422727;
+  --btn-bg-color: #0c0c0c;
+  --accent-color: #ff9900;
+  --header-shadow: #db8019 0px 0px 5px;
 }
 
 * {
